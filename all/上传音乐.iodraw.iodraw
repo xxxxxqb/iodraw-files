@@ -51,7 +51,7 @@
         <mxCell id="BJOXrdqenLoUU90Q6XE_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="264" y="545" as="sourcePoint" />
-            <mxPoint x="310" y="350" as="targetPoint" />
+            <mxPoint x="310" y="380" as="targetPoint" />
             <Array as="points">
               <mxPoint x="305" y="545" />
             </Array>
@@ -67,6 +67,9 @@
         </mxCell>
         <mxCell id="BJOXrdqenLoUU90Q6XE_-16" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

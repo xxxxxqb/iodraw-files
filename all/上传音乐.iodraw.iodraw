@@ -74,6 +74,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="225" y="578" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

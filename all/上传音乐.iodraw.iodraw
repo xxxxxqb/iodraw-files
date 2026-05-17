@@ -11,8 +11,8 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="是" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-1" y="91" relative="1" as="geometry">
+            <mxPoint x="10" y="-1" as="offset" />
             <mxPoint x="220" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>

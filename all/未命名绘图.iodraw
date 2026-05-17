@@ -71,7 +71,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iCgj7S6GHGEKvyIEquPU-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;用户&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ID&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="105" width="60" height="45" as="geometry" />
+          <mxGeometry x="530" y="140" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="iCgj7S6GHGEKvyIEquPU-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="235" as="sourcePoint" />
+            <mxPoint x="550" y="185" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

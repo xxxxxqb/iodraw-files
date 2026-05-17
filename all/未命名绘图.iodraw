@@ -97,8 +97,8 @@
             <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iCgj7S6GHGEKvyIEquPU-17" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="235" width="120" height="80" as="geometry" />
+        <mxCell id="iCgj7S6GHGEKvyIEquPU-17" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;审核说明&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="235" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

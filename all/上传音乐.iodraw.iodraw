@@ -43,10 +43,25 @@
         <mxCell id="BJOXrdqenLoUU90Q6XE_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="475" />
+              <mxPoint x="221" y="475" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BJOXrdqenLoUU90Q6XE_-1" value="music状态设置为pendding" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-8" target="BJOXrdqenLoUU90Q6XE_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BJOXrdqenLoUU90Q6XE_-9">
+          <mxGeometry x="-0.0667" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

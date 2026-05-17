@@ -77,8 +77,14 @@
         <mxCell id="BJOXrdqenLoUU90Q6XE_-25" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="590" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-26" target="BJOXrdqenLoUU90Q6XE_-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJOXrdqenLoUU90Q6XE_-26" value="music状态设置为approved，并显示在前台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-27" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="730" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

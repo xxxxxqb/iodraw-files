@@ -8,7 +8,10 @@
           <mxGeometry x="400" y="340" width="85" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VYwXqCcRLgOnaRHTVAu2-3" value="客户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="230" y="340" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VYwXqCcRLgOnaRHTVAu2-4" value="客户ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="350" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

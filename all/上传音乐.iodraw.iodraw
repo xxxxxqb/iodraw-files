@@ -53,8 +53,17 @@
             <mxPoint x="220" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-13" target="BJOXrdqenLoUU90Q6XE_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BJOXrdqenLoUU90Q6XE_-13" value="管理员审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-23" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="518" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

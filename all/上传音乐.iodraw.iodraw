@@ -48,9 +48,13 @@
         <mxCell id="BJOXrdqenLoUU90Q6XE_-1" value="music状态设置为pendding" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BJOXrdqenLoUU90Q6XE_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-13">
+        <mxCell id="BJOXrdqenLoUU90Q6XE_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="210" as="targetPoint" />
+            <mxPoint x="264" y="545" as="sourcePoint" />
+            <mxPoint x="304" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="305" y="545" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BJOXrdqenLoUU90Q6XE_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BJOXrdqenLoUU90Q6XE_-13">

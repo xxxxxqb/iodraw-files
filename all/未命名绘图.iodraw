@@ -14,13 +14,13 @@
           <mxGeometry x="320" y="210" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vi726PXk5dk7SfNum5pi-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 7.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;客户&lt;/font&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="80" height="50" as="geometry" />
+          <mxGeometry x="430" y="180" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vi726PXk5dk7SfNum5pi-5" value="&lt;span style=&quot;font-family: 宋体; font-size: 7.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;父评论&lt;/font&gt;ID&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="220" width="80" height="50" as="geometry" />
+          <mxGeometry x="560" y="190" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vi726PXk5dk7SfNum5pi-6" value="&lt;span style=&quot;font-family: 宋体; font-size: 7.5pt;&quot;&gt;评论内容&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="460" width="80" height="50" as="geometry" />
+          <mxGeometry x="640" y="250" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vi726PXk5dk7SfNum5pi-7" value="&lt;span style=&quot;font-family: 宋体; font-size: 7.5pt;&quot;&gt;发表时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="80" height="50" as="geometry" />

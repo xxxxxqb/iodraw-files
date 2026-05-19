@@ -11,7 +11,10 @@
           <mxGeometry x="350" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yN72eXopdMIR4iRSfJf5-2" value="输入账号和密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

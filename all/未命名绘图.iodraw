@@ -26,7 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yN72eXopdMIR4iRSfJf5-6" value="提示错误信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="220" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

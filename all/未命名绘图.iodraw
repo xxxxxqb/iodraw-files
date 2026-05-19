@@ -101,11 +101,20 @@
             <mxPoint x="580" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yN72eXopdMIR4iRSfJf5-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-22">
+        <mxCell id="yN72eXopdMIR4iRSfJf5-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="420" y="790" as="sourcePoint" />
-            <mxPoint x="470" y="740" as="targetPoint" />
+            <mxPoint x="410" y="700" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-22" target="yN72eXopdMIR4iRSfJf5-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="650" as="sourcePoint" />
+            <mxPoint x="410" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-25" value="获取用户信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -84,7 +84,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yN72eXopdMIR4iRSfJf5-18" value="生成并签发JWT令牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-20" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

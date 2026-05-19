@@ -13,14 +13,20 @@
         <mxCell id="yN72eXopdMIR4iRSfJf5-2" value="输入账号和密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="120" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-4" target="yN72eXopdMIR4iRSfJf5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yN72eXopdMIR4iRSfJf5-4" value="前端检验格式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yN72eXopdMIR4iRSfJf5-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yN72eXopdMIR4iRSfJf5-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yN72eXopdMIR4iRSfJf5-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="250" as="sourcePoint" />
-            <mxPoint x="250" y="380" as="targetPoint" />
+            <mxPoint x="410" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -10,8 +10,8 @@
         <mxCell id="yN72eXopdMIR4iRSfJf5-1" value="用户打开登录页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yN72eXopdMIR4iRSfJf5-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="yN72eXopdMIR4iRSfJf5-2" value="输入账号和密码" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

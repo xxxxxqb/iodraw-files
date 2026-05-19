@@ -92,10 +92,10 @@
         <mxCell id="yN72eXopdMIR4iRSfJf5-21" value="返回令牌给前端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yN72eXopdMIR4iRSfJf5-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yN72eXopdMIR4iRSfJf5-22" value="前端存储令牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yN72eXopdMIR4iRSfJf5-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-21">
+        <mxCell id="yN72eXopdMIR4iRSfJf5-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yN72eXopdMIR4iRSfJf5-21" target="yN72eXopdMIR4iRSfJf5-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="560" as="sourcePoint" />
             <mxPoint x="580" y="510" as="targetPoint" />

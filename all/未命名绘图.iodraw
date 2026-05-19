@@ -16,6 +16,12 @@
         <mxCell id="yN72eXopdMIR4iRSfJf5-4" value="前端检验格式" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yN72eXopdMIR4iRSfJf5-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="250" as="sourcePoint" />
+            <mxPoint x="250" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
